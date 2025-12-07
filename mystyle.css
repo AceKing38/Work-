@@ -1,0 +1,24 @@
+body {
+    background-image:url(../../Downloads/half-dome-in-yosemite.jpg) ; 
+ background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1 {
+    color: darkblue; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 35;
+    
+}
+h2 {
+    font-family: cursive;
+    font-size: 25;
+    color: rgb(0, 149, 248);
+    background-color: rgba(0, 0, 0, 0.404);
+   background-position-x: inherit;
+}
+p {
+    font-size: 15;
+    color: rgb(252, 222, 101);
+    background-color: rgba(2, 2, 2, 0.374);
+}
